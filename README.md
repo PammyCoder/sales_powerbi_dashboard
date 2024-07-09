@@ -6,7 +6,7 @@ This repository contains the Power BI Sales Dashboard for the years 2022-2024. T
 
 
 ## Screenshots
-![Sales Dashboard](./path/to/dashboard.png)
+![Sales Dashboard](dashboard.png)
 
 ## Dashboard Highlights
 
