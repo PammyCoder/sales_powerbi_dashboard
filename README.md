@@ -50,6 +50,6 @@ This repository contains the Power BI Sales Dashboard for the years 2022-2024. T
 
 
 ## Acknowledgements
-This dashboard not only helps us track our performance but also enables us to make data-driven decisions for future growth. Kudos to the entire team for their hard work and dedication! 👏
+This dashboard not only helps us track our performance but also enables us to make data-driven decisions for future growth.
 
 
